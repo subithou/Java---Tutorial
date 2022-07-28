@@ -1,2 +1,5 @@
-# Java---Tutorial
-Learn Java from beginner level
+# Java
+Learn Java from beginner level.
+
+## Content
+* Introduction
