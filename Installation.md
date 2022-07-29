@@ -1,4 +1,4 @@
-**[Home](/README.md)** / Installation.md
+**[Home](/README.md)** / Installation
 
 # Java Installation
 
