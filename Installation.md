@@ -11,7 +11,7 @@ First of all check if the java already installed in your system.
 ## Download
 * Download the installation file of Java from the given link
 
-https://www.oracle.com/technetwork/java/javase/overview/index.html
+  https://www.oracle.com/technetwork/java/javase/overview/index.html
 * After downloading the file, install the package.
 * Then open the command promt then type 
 java -version
